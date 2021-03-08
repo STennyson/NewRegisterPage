@@ -1,0 +1,16 @@
+nav{
+    text-align: right;
+    border: 1px hidden;
+    background-color: white;
+}
+.mainbody{
+    background-color: lightblue;
+    padding: 25%;
+}
+
+form{
+    align-content: center;
+    background-color: white;
+    border:1px solid black;
+
+}
